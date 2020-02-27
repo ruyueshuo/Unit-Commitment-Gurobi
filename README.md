@@ -34,3 +34,5 @@ But if you consider pumped storage power station rather than battery station, th
 # 3.Requirement
 Ensure you have installed Gurobi before running this code. Find it [here](https://www.gurobi.com/ "悬停显示").
 
+# 4.TODO
+Add scenario generation method for stochastic programme model.
